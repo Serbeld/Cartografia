@@ -1,7 +1,7 @@
 # Cartografía
 Este repositorio está orientado a realizar prácticas de Cartografía 
 
-# <img src="image.PNG" />
+# <img src="Image.png" />
 
 # Como descargar las librerías necesarias para compilar el código
 Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
